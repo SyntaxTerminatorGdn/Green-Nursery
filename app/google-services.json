@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1095348000519",
+    "firebase_url": "https://plantpal-66afe-default-rtdb.firebaseio.com",
+    "project_id": "plantpal-66afe",
+    "storage_bucket": "plantpal-66afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095348000519:android:3a7dec1ca2ccafc60b57a2",
+        "android_client_info": {
+          "package_name": "com.aptechgdn.syntaxterminators"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095348000519-54klkof8jl9rsjoij4k8q0f83q3sgmc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAthpXhHT8QbHb6sLc8Tz5YWGMh5t34cXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095348000519-54klkof8jl9rsjoij4k8q0f83q3sgmc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095348000519:android:220dd5705b9a71030b57a2",
+        "android_client_info": {
+          "package_name": "com.aptechgdn.techwiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095348000519-54klkof8jl9rsjoij4k8q0f83q3sgmc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAthpXhHT8QbHb6sLc8Tz5YWGMh5t34cXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095348000519-54klkof8jl9rsjoij4k8q0f83q3sgmc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095348000519:android:d886f98b81046e2c0b57a2",
+        "android_client_info": {
+          "package_name": "com.example.syntaxternminators"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095348000519-54klkof8jl9rsjoij4k8q0f83q3sgmc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAthpXhHT8QbHb6sLc8Tz5YWGMh5t34cXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095348000519-54klkof8jl9rsjoij4k8q0f83q3sgmc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

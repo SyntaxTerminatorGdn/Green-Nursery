@@ -71,9 +71,16 @@ public class Login extends AppCompatActivity {
                             // Login successful
                             Toast.makeText(Login.this, "Login successful", Toast.LENGTH_SHORT).show();
 
-                            // Redirect to the homepage (assuming your homepage activity is named "HomeActivity")
-                            Intent intent = new Intent(Login.this, HomeActivity.class);
-                            startActivity(intent);
+                            // Check if the user is an admin (using a specific email and password)
+                            if (email.equals("admin1@aptechgdn.net") && password.equals("admin1")) {
+                                // Redirect to the admin page (assuming your admin activity is named "AdminActivity")
+                                Intent adminIntent = new Intent(Login.this, AdminActivity.class);
+                                startActivity(adminIntent);
+                            } else {
+                                // Redirect to the homepage (assuming your homepage activity is named "HomeActivity")
+                                Intent homeIntent = new Intent(Login.this, HomeActivity.class);
+                                startActivity(homeIntent);
+                            }
                             finish(); // Close the login activity to prevent going back
                         } else {
                             // Login failed
@@ -82,5 +89,6 @@ public class Login extends AppCompatActivity {
                     }
                 });
     }
+
 
 }
